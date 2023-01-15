@@ -1,5 +1,5 @@
 ### Hi there 👋
-I will soon become a professional software engineer.
+
 
 <!--
 **if/if** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
